@@ -86,7 +86,7 @@ text-decoration: none;
     line-height: 1.88;
 }
 .hero-btn.primary{
-    cursor: pointer;
+    cursor: pointeк;
     border-radius: 4px;
     color: var(--primary-color);
     background-color:var(--accent-text-color);
